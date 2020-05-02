@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteRule ^([\w\-]+)/?$ /$1.php
+
+Redirect 301 /github https://github.com/ashabacon
+Redirect 301 /linkedin https://www.linkedin.com/in/asha-bacon-19511a14a/
+Redirect 301 /facebook https://www.facebook.com/asha.bacon
+
+
+
+ErrorDocument 404 /index.php

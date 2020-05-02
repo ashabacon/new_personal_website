@@ -1,0 +1,46 @@
+
+.section-header {
+  font-family: Poppins,"Arial Black",Arial,Helvetica,sans-serif, "Verdana";
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.section-header > hr {
+	border: 1.5px solid #000000 !important;
+  /* border-top: 3px solid rgba(0,0,0,1); */
+}
+
+.work-experience {
+  /* margin: 50px; */
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.work-experience div {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.work-experience  h3 {
+  color: #000000;
+  /* text-align: center; */
+  font-family: Avenir,sans-serif !important;
+  align: center;
+}
+
+.work-experience a {
+  font-size: 26px !important;
+  color: #155D85;
+  font-style: italic;
+}
+
+.work-experience .date {
+  padding-left: 30px;
+  font-size: 18px !important;
+  font-style: italic;
+}
+
+.experience-list li{
+  font-size: 19px;
+}

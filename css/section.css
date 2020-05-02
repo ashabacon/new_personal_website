@@ -1,0 +1,73 @@
+html {
+  font-family: Helvetica;
+}
+
+.welcome {
+  color: rgba(0,0,0,0.85);
+}
+
+#welcome {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#welcome h1 {
+  font-size: 40px;
+}
+
+#message {
+  display: block;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-size: 16px;
+}
+
+#message p {
+  text-align: justify;
+}
+
+#message img {
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  max-height: 235px;
+  width: auto;
+  height: auto;
+  padding-bottom: 5px;
+}
+
+#message a {
+  color: #56A0C2;
+}
+
+#coursematerials {
+  margin-top: 30px;
+}
+
+#schedule {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#schedule a {
+  font-size: 16px;
+  color: #56A0C2;
+}
+
+table {
+  display: table-cell;
+  /* border-collapse: separate; */
+}
+
+table td {
+  padding: 0.5em 4em;
+  border: 1px solid #ccc;
+  text-align: center;
+  font-size: 16px;
+}
+table th {
+  text-align: center;
+  font-size: 18px;
+  font-family: Helvetica;
+}
